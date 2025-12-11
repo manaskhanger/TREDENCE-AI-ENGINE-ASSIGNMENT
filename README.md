@@ -292,8 +292,9 @@ This repo includes:
 
 ## 👨‍💻 Author
 
-**Aditya Sinha**
+**Manas Khanger**
 AI Engineering Enthusiast | SRM IST
 Focused on agent systems, scalable backend engineering, and applied ML.
+
 
 ---
